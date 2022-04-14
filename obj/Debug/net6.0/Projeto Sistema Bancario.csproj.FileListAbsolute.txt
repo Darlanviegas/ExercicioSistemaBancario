@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\bin\Debug\net6.0\Projeto Sistema Bancario.exe
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\bin\Debug\net6.0\Projeto Sistema Bancario.deps.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\bin\Debug\net6.0\Projeto Sistema Bancario.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\bin\Debug\net6.0\Projeto Sistema Bancario.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\bin\Debug\net6.0\Projeto Sistema Bancario.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\refint\Projeto Sistema Bancario.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\Projeto Sistema Bancario.genruntimeconfig.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Sistema Bancario\obj\Debug\net6.0\ref\Projeto Sistema Bancario.dll
